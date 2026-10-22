@@ -4,46 +4,71 @@ Practice repository for learning Astro through realistic frontend features.
 
 ## Goal
 
-Build small features that resemble daily Astro work while practicing modern CSS, UI interaction, accessibility, performance, React islands, routing, and content collections.
+Build one evolving Astro project while practicing production-style functionality, modern CSS, UI interaction, accessibility, performance, React islands, routing, content architecture, and deployment-oriented features.
 
-## How to use this repo
+## Learning structure
 
-1. Open the next task in `learning/`.
-2. Read only the Task, Requirements, Acceptance Criteria, and Hints first.
-3. Build the feature yourself.
-4. Commit your attempt on a feature branch.
-5. Then open the Explanation and Solution sections to compare approaches.
-6. Refactor only after you understand why the solution works.
+Each task lives in `learning/` and contains:
 
-## Roadmap
+```text
+README.md
+task.md
+explanation.md
+solution.md
+```
 
-- `01-content-collection` — reusable resource section from an Astro Content Collection
-- `02-dynamic-routes` — dynamic resource pages, sticky TOC, and reading progress
-- `03-react-filtering` — filterable resource library with a React island and URL state
+Work in this order:
+
+1. Read `task.md`.
+2. Build the feature yourself in `src/`.
+3. Commit your attempt.
+4. Read `explanation.md`.
+5. Compare your implementation with `solution.md`.
+6. Refactor only after you understand the differences.
+
+## Current roadmap
+
+- 01 Content Collection
+- 02 Dynamic Routes
+- 03 React Filtering
+- 04 Responsive Images
+- 05 Slots and Component API
+- 06 Static Pagination
+- 07 View Transitions
+- 08 JSON Endpoint
+- 09 SEO, RSS, Sitemap, and Share UX
+
+New tasks continue the same project rather than creating a new Astro app.
 
 ## Local setup
 
-~~~bash
+```bash
 npm install
 npm run dev
-~~~
+```
 
-Then open the local URL shown by Astro.
+Before considering a task complete:
+
+```bash
+npm run build
+```
 
 ## Suggested Git workflow
 
 Create a branch per task:
 
-~~~bash
-git switch -c task/01-content-collection
-~~~
+```bash
+git switch main
+git pull
+git switch -c task/04-responsive-images
+```
 
 After finishing:
 
-~~~bash
+```bash
 git add .
-git commit -m "Complete task 01 content collection"
-git push -u origin task/01-content-collection
-~~~
+git commit -m "Complete task 04 responsive images"
+git push -u origin task/04-responsive-images
+```
 
 Then open a pull request into `main`.
