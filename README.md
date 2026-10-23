@@ -37,6 +37,7 @@ Work in this order:
 - 07 View Transitions
 - 08 JSON Endpoint
 - 09 SEO, RSS, Sitemap, and Share UX
+- 10 Astro i18n and bilingual landing page
 
 New tasks continue the same project rather than creating a new Astro app.
 
