@@ -50,6 +50,9 @@ Create a static JSON endpoint from the collection and a browser-side “Surprise
 ### 09 — SEO, RSS, Sitemap, and Share UX
 Add production metadata, canonical URLs, JSON-LD, RSS, sitemap generation, and a lightweight Copy Link interaction.
 
+### 10 — Astro i18n and bilingual landing page
+Add English/Russian routes, a language switcher, typed translation dictionaries, accessible language-aware UI, and localized SEO metadata without changing existing resource routes.
+
 ## Rule
 
 Try the task before opening `solution.md`.
