@@ -53,6 +53,10 @@ Add production metadata, canonical URLs, JSON-LD, RSS, sitemap generation, and a
 ### 10 — Astro i18n and bilingual landing page
 Add English/Russian routes, a language switcher, typed translation dictionaries, accessible language-aware UI, and localized SEO metadata without changing existing resource routes.
 
+
+### 11 — Global Search & Command Palette
+Build an accessible ⌘K/Ctrl+K search overlay using a minimal Astro Content Collection index and a React island, with keyboard navigation, native dialog, modern CSS, and progressive enhancement.
+
 ## Rule
 
 Try the task before opening `solution.md`.
