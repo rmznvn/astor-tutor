@@ -39,6 +39,8 @@ Work in this order:
 - 09 SEO, RSS, Sitemap, and Share UX
 - 10 Astro i18n and bilingual landing page
 
+- 11 Global Search & Command Palette
+
 New tasks continue the same project rather than creating a new Astro app.
 
 ## Local setup
