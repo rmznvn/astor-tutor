@@ -40,6 +40,14 @@ Work in this order:
 - 10 Astro i18n and bilingual landing page
 
 - 11 Global Search & Command Palette
+- 12 Middleware & Request Context
+- 13 Astro Actions & Feedback Form
+- 14 Typed Environment Configuration
+- 15 MDX Component Library
+- 16 Server Islands & Personalized UI
+- 17 Caching, Headers & Performance Budget
+- 18 404, Error States & Resilient UX
+- 19 Testing with Vitest & Playwright
 
 New tasks continue the same project rather than creating a new Astro app.
 

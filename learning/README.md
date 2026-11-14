@@ -57,6 +57,31 @@ Add English/Russian routes, a language switcher, typed translation dictionaries,
 ### 11 — Global Search & Command Palette
 Build an accessible ⌘K/Ctrl+K search overlay using a minimal Astro Content Collection index and a React island, with keyboard navigation, native dialog, modern CSS, and progressive enhancement.
 
+
+### 12 — Middleware & Request Context
+Use Astro middleware, typed locals, request IDs, safe headers, and development diagnostics.
+
+### 13 — Astro Actions & Feedback Form
+Build a validated progressively enhanced feedback form with Astro Actions and accessible error/success states.
+
+### 14 — Typed Environment Configuration
+Separate public and server environment variables with a type-safe schema and prevent secret leakage.
+
+### 15 — MDX Component Library
+Add MDX and build reusable authoring components for callouts, demos, and documentation content.
+
+### 16 — Server Islands & Personalized UI
+Use `server:defer` to isolate personalized request-time UI while keeping the surrounding page fast and cacheable.
+
+### 17 — Caching, Headers & Performance Budget
+Design cache policies for static/data/dynamic responses and practice rendering-performance techniques.
+
+### 18 — 404, Error States & Resilient UX
+Build recovery-oriented 404 and empty/error states with high-contrast and accessibility testing.
+
+### 19 — Testing with Vitest & Playwright
+Add unit and end-to-end tests for search logic, keyboard interaction, 404 behavior, and mobile overflow.
+
 ## Rule
 
 Try the task before opening `solution.md`.
