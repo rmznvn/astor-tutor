@@ -83,3 +83,7 @@ git push -u origin task/04-responsive-images
 ```
 
 Then open a pull request into `main`.
+
+
+### Task 20 — URL-synced Reading List
+See [learning/20-url-synced-reading-list](learning/20-url-synced-reading-list) for a shareable reading-list exercise.

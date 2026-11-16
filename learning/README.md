@@ -82,6 +82,9 @@ Build recovery-oriented 404 and empty/error states with high-contrast and access
 ### 19 — Testing with Vitest & Playwright
 Add unit and end-to-end tests for search logic, keyboard interaction, 404 behavior, and mobile overflow.
 
+### 20 — URL-synced Reading List
+Build a shareable, accessible Read Later tray using Astro HTML, localStorage, URLSearchParams, ClientRouter lifecycle, and container queries.
+
 ## Rule
 
 Try the task before opening `solution.md`.
