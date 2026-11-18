@@ -49,6 +49,10 @@ Work in this order:
 - 18 404, Error States & Resilient UX
 - 19 Testing with Vitest & Playwright
 
+- 21 URL-first Faceted Resource Filters
+- 22 Related Content & Backlinks
+- 23 Accessible Screenshot Gallery
+
 New tasks continue the same project rather than creating a new Astro app.
 
 ## Local setup

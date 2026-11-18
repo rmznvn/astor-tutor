@@ -85,6 +85,15 @@ Add unit and end-to-end tests for search logic, keyboard interaction, 404 behavi
 ### 20 — URL-synced Reading List
 Build a shareable, accessible Read Later tray using Astro HTML, localStorage, URLSearchParams, ClientRouter lifecycle, and container queries.
 
+### 21 — URL-first Faceted Resource Filters
+Build shareable topic and difficulty filters on the resource library using GET form controls and URLSearchParams.
+
+### 22 — Related Content & Backlinks
+Derive a build-time relationship graph from the existing content collection and render related articles and incoming references.
+
+### 23 — Accessible Screenshot Gallery
+Create a reusable Astro gallery with optimized thumbnails and a native dialog viewer, keyboard controls and focus restoration.
+
 ## Rule
 
 Try the task before opening `solution.md`.
