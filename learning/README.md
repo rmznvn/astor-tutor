@@ -94,6 +94,16 @@ Derive a build-time relationship graph from the existing content collection and 
 ### 23 — Accessible Screenshot Gallery
 Create a reusable Astro gallery with optimized thumbnails and a native dialog viewer, keyboard controls and focus restoration.
 
+
+### 24 — Downloadable Event Calendar Feed
+Generate an accessible .ics calendar download from typed events with an Astro static endpoint and responsive CSS Grid.
+
+### 25 — Accessible Reading Progress & Section Bookmarks
+Add native progress semantics and shareable heading anchors to articles, with ClientRouter-safe event handling and modern scrolling CSS.
+
+### 26 — Build-time Content Quality Audit
+Audit collection-wide metadata and relationships with a pure TypeScript validator, Astro build artifact, CI-friendly checker and container-query checklist.
+
 ## Rule
 
 Try the task before opening `solution.md`.

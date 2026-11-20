@@ -53,6 +53,10 @@ Work in this order:
 - 22 Related Content & Backlinks
 - 23 Accessible Screenshot Gallery
 
+- 24 Downloadable Event Calendar Feed
+- 25 Accessible Reading Progress & Section Bookmarks
+- 26 Build-time Content Quality Audit
+
 New tasks continue the same project rather than creating a new Astro app.
 
 ## Local setup
