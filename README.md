@@ -56,6 +56,9 @@ Work in this order:
 - 24 Downloadable Event Calendar Feed
 - 25 Accessible Reading Progress & Section Bookmarks
 - 26 Build-time Content Quality Audit
+- 27 Accessible Code Snippet Toolbar
+- 28 Responsive Feature Comparison from Content
+- 29 Offline Reading Pack with Service Worker
 
 New tasks continue the same project rather than creating a new Astro app.
 
