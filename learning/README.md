@@ -104,6 +104,15 @@ Add native progress semantics and shareable heading anchors to articles, with Cl
 ### 26 — Build-time Content Quality Audit
 Audit collection-wide metadata and relationships with a pure TypeScript validator, Astro build artifact, CI-friendly checker and container-query checklist.
 
+### 27 — Accessible Code Snippet Toolbar
+Documentation readers need copyable code examples with visible language labels, a confirmation message and robust navigation when Astro ClientRouter swaps pages.
+
+### 28 — Responsive Feature Comparison from Content
+A frontend knowledge hub needs a comparison matrix for Astro, React and Webflow techniques, authored in typed content and usable on narrow screens.
+
+### 29 — Offline Reading Pack with Service Worker
+Users want to save a small set of already-public article pages for offline reading without converting the Astro site into a full PWA.
+
 ## Rule
 
 Try the task before opening `solution.md`.
