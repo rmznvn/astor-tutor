@@ -113,6 +113,15 @@ A frontend knowledge hub needs a comparison matrix for Astro, React and Webflow 
 ### 29 — Offline Reading Pack with Service Worker
 Users want to save a small set of already-public article pages for offline reading without converting the Astro site into a full PWA.
 
+### 30 — Typed Release Notes & Native Disclosure
+Build a release history for the knowledge hub from a dedicated Astro content collection, with expandable details and CSS grid timeline.
+
+### 31 — Markdown External Link Policy
+Add a build-time remark plugin that annotates external Markdown links, with a CSS-only visual indicator and accessible link text.
+
+### 32 — Custom Astro Integration & Build Metrics
+Create a local Astro integration that reports generated page sizes after a static build, plus a native interactive report viewer using CSS meter styling.
+
 ## Rule
 
 Try the task before opening `solution.md`.
