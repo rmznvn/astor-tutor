@@ -60,6 +60,10 @@ Work in this order:
 - 28 Responsive Feature Comparison from Content
 - 29 Offline Reading Pack with Service Worker
 
+- 30 Typed Release Notes & Native Disclosure
+- 31 Markdown External Link Policy
+- 32 Custom Astro Integration & Build Metrics
+
 New tasks continue the same project rather than creating a new Astro app.
 
 ## Local setup
